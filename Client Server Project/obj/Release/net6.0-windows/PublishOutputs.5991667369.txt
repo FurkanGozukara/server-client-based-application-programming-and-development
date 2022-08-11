@@ -1,0 +1,6 @@
+C:\Users\King\Desktop\Client Server Project\bin\Release\net6.0-windows\publish\Client Server Project.exe
+C:\Users\King\Desktop\Client Server Project\bin\Release\net6.0-windows\publish\Client Server Project.dll
+C:\Users\King\Desktop\Client Server Project\bin\Release\net6.0-windows\publish\Client Server Project.deps.json
+C:\Users\King\Desktop\Client Server Project\bin\Release\net6.0-windows\publish\Client Server Project.runtimeconfig.json
+C:\Users\King\Desktop\Client Server Project\bin\Release\net6.0-windows\publish\Client Server Project.pdb
+C:\Users\King\Desktop\Client Server Project\bin\Release\net6.0-windows\publish\Newtonsoft.Json.dll

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\King\Desktop\Server Side Application\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2022-08-11T22:32:42.5311224Z;True|2022-08-11T19:41:59.5016984+03:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Models/LoggedUser.cs">
+      <publishTime>08/11/2022 23:14:12</publishTime>
+    </File>
+    <File Include="Models/RegistrationModel.cs">
+      <publishTime>08/11/2022 19:51:54</publishTime>
+    </File>
+    <File Include="Models/UserBattle.cs">
+      <publishTime>08/12/2022 00:08:36</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

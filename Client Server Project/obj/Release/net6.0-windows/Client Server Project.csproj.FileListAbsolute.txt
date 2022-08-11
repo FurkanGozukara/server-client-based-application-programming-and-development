@@ -1,0 +1,23 @@
+C:\Users\King\Desktop\Client Server Project\bin\Release\net6.0-windows\Client Server Project.exe
+C:\Users\King\Desktop\Client Server Project\bin\Release\net6.0-windows\Client Server Project.deps.json
+C:\Users\King\Desktop\Client Server Project\bin\Release\net6.0-windows\Client Server Project.runtimeconfig.json
+C:\Users\King\Desktop\Client Server Project\bin\Release\net6.0-windows\Client Server Project.dll
+C:\Users\King\Desktop\Client Server Project\bin\Release\net6.0-windows\Client Server Project.pdb
+C:\Users\King\Desktop\Client Server Project\obj\Release\net6.0-windows\Client Server Project.csproj.AssemblyReference.cache
+C:\Users\King\Desktop\Client Server Project\obj\Release\net6.0-windows\MainWindow.g.cs
+C:\Users\King\Desktop\Client Server Project\obj\Release\net6.0-windows\App.g.cs
+C:\Users\King\Desktop\Client Server Project\obj\Release\net6.0-windows\Client Server Project_MarkupCompile.cache
+C:\Users\King\Desktop\Client Server Project\obj\Release\net6.0-windows\Client Server Project_MarkupCompile.lref
+C:\Users\King\Desktop\Client Server Project\obj\Release\net6.0-windows\MainWindow.baml
+C:\Users\King\Desktop\Client Server Project\obj\Release\net6.0-windows\Client Server Project.g.resources
+C:\Users\King\Desktop\Client Server Project\obj\Release\net6.0-windows\Client Server Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\King\Desktop\Client Server Project\obj\Release\net6.0-windows\Client Server Project.AssemblyInfoInputs.cache
+C:\Users\King\Desktop\Client Server Project\obj\Release\net6.0-windows\Client Server Project.AssemblyInfo.cs
+C:\Users\King\Desktop\Client Server Project\obj\Release\net6.0-windows\Client Server Project.csproj.CoreCompileInputs.cache
+C:\Users\King\Desktop\Client Server Project\obj\Release\net6.0-windows\Client Server Project.dll
+C:\Users\King\Desktop\Client Server Project\obj\Release\net6.0-windows\refint\Client Server Project.dll
+C:\Users\King\Desktop\Client Server Project\obj\Release\net6.0-windows\Client Server Project.pdb
+C:\Users\King\Desktop\Client Server Project\obj\Release\net6.0-windows\Client Server Project.genruntimeconfig.cache
+C:\Users\King\Desktop\Client Server Project\obj\Release\net6.0-windows\ref\Client Server Project.dll
+C:\Users\King\Desktop\Client Server Project\bin\Release\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\King\Desktop\Client Server Project\obj\Release\net6.0-windows\Client Server Project.csproj.CopyComplete
